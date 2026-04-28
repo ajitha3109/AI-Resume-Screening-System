@@ -19,5 +19,9 @@ This project is an AI-based resume screening system that evaluates and ranks can
 pip install -r requirements.txt  
 streamlit run app.py
 
+## Output Screenshot
+
+![Output](output.png)
+
 ## Author
 Kalai Ajitha M
